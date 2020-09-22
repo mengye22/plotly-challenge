@@ -1,9 +1,5 @@
 # Belly Button Biodiversity
 
-# Goal
-
-Use 
-
 ## Step 1: Plotly
 
 1. Use the D3 library to read in `samples.json`.
