@@ -1,5 +1,8 @@
 # Belly Button Biodiversity
 
+# Goal
+
+Use 
 
 ## Step 1: Plotly
 
